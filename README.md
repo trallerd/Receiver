@@ -1,4 +1,4 @@
-# Reciver
+# Receiver
 
 Ao receber um texto ou imagem, o App abre a Activity adequada (para mostrar texto ou imagem), apresentando os respectivos conteúdos compartilhados.
 [ver Sender](https://github.com/trallerd/Sender)
